@@ -73,4 +73,4 @@ O **Relatório Técnico** do projeto pode ser acessado em:
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: Informação e documentação - Referências - Elaboração. Rio de Janeiro: ABNT, 2018.
 - Lei Geral de Proteção de Dados (LGPD) - **Lei nº 13.709/2018**.
 
----
+
