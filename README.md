@@ -48,6 +48,12 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 > Obs: Sim… sou só eu mesmo, fazendo tudo… #TeamSolo 😭
 
 
+## 🧠 Mapa da Empatia
+O **Mapa da Empatia** desenvolvido para o projeto pode ser acessado em:  
+
+- [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
+
+
 
 ## 📂 Estrutura do Repositório
 - `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
