@@ -44,7 +44,7 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 - **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] – Elabora relatórios e documentação técnica.
 - **Tester/Designer**: [Arthur Rmalho Hoffmann] – Realiza testes de usabilidade e cria protótipos.
 
-
+👀
 
 ## 🧠 Mapas de Empatia
 Os mapas de empatia foram elaborados com base em entrevistas com usuários do Plano Piloto (Asa Sul e Asa Norte, Brasília, DF).
