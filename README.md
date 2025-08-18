@@ -1,4 +1,4 @@
-# 📌 Alerta-Urbano-Projeto-Integrador
+#  Alerta-Urbano-Projeto-Integrador
 
 > Projeto desenvolvido para fins educacionais no âmbito da disciplina Projeto Integrador I, Curso de Ciência da Computação, UniCEUB.
 
@@ -6,13 +6,13 @@ Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digita
 
 
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver uma solução digital que facilite a fiscalização de problemas urbanos, promovendo participação cidadã e integração com sistemas de Smart Cities, com foco inicial no Distrito Federal (Plano Piloto, Brasília) e potencial expansão para todo o Brasil ou estados/municípios interessados.
 
 
 
-## 🚀 Informações Gerais
+##  Informações Gerais
 
 ### Descrição
 O "Alerta Urbano" é uma plataforma mobile que permite o registro de ocorrências de infraestrutura urbana (ex.: buracos, falhas de iluminação, problemas em escolas públicas e praças) com fotos, localização e data/hora. Utilizando princípios de Design Thinking, o projeto integra entrevistas com usuários reais, mapas de empatia, jornadas do usuário e requisitos funcionais/não funcionais para criar uma solução prática e escalável. A plataforma visa aumentar a transparência, reduzir riscos cotidianos e fortalecer a cidadania digital, com foco em decisões públicas baseadas em dados reais.
@@ -22,7 +22,7 @@ Conforme as normas ABNT NBR 14724:2011 (trabalhos acadêmicos) e NBR 6023:2018 (
 
 
 
-## 📋 Objetivos do Projeto
+##  Objetivos do Projeto
 
 ### Objetivo Geral
 Desenvolver um aplicativo mobile escalável e seguro que permita o registro, monitoramento e exportação de ocorrências de infraestrutura urbana, incluindo a fiscalização de espaços públicos como escolas públicas e praças, com evidências básicas e integração com gestores públicos e sistemas de Smart Cities.
@@ -37,7 +37,7 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 
 
-## 👥 Papéis dos Membros da Equipe
+##  Papéis dos Membros da Equipe
 
 - **Líder do Projeto**: [Arthur Ramalho Hoffmann] 🧑‍💼 
 - **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 💻
@@ -49,7 +49,7 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 
 
-## 🧠 Mapas de Empatia
+##  Mapas de Empatia
 Os mapas de empatia foram elaborados com base em entrevistas com usuários do Plano Piloto (Asa Sul e Asa Norte, Brasília, DF).
 
 ### Mapa de Empatia – João Souza (Motorista de Aplicativo – Asa Sul)
@@ -81,11 +81,6 @@ Os mapas de empatia foram elaborados com base em entrevistas com usuários do Pl
 | Fala e Faz    | Organiza abaixo-assinados, reuniões e pressão política. |
 | Dores         | Falta de dados confiáveis e agregados para ações coletivas. |
 | Ganhos        | Ferramenta que agrega denúncias, gera relatórios técnicos e facilita monitoramento comunitário. |
-
-
-
-## 🗺️ Mapa Mental
-O mapa mental do projeto, detalhando as fases de imersão, ideação e definição do problema. Ele inclui personas, jornadas do usuário e integração com Smart Cities.
 
 
 
