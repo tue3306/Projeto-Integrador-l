@@ -1,6 +1,6 @@
 # 📌 Alerta-Urbano-Projeto-Integrador
 
-Projeto desenvolvido para fins educacionais no âmbito da disciplina Projeto Integrador I, Curso de Ciência da Computação, UniCEUB.
+> Projeto desenvolvido para fins educacionais no âmbito da disciplina Projeto Integrador I, Curso de Ciência da Computação, UniCEUB.
 
 Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digital que capacita cidadãos, motoristas de aplicativos e moradores a monitorarem problemas de infraestrutura urbana, incluindo espaços públicos como escolas e praças, por meio de registros rápidos e acionáveis via aplicativo mobile.
 
