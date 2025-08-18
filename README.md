@@ -39,11 +39,11 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 ## 👥 Papéis dos Membros da Equipe
 
-- **Líder do Projeto**: [Arthur Ramalho Hoffmann] 🧑‍💼 – Coordena atividades, prazos e a vida inteira da equipe (ou melhor… só a minha 😅).  
-- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 💻 – Cria a interface do aplicativo, do jeitinho que eu gosto (Flutter, claro).  
-- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] 🛠️ – Cuida da lógica do servidor e banco de dados (Python/FastAPI/PostGIS, porque né…).  
-- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 📄 – Faz todos os relatórios e documentação técnica, porque alguém tem que fazer.  
-- **Tester/Designer**: [Arthur Ramalho Hoffmann] 🎨 – Testa a usabilidade e ainda faz os protótipos bonitinhos.  
+- **Líder do Projeto**: [Arthur Ramalho Hoffmann] 🧑‍💼 
+- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 💻
+- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] 🛠️ 
+- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 📄
+- **Tester/Designer**: [Arthur Ramalho Hoffmann] 🎨  
 
 👀 Obs: Sim… sou só eu mesmo, fazendo tudo… #TeamSolo 😭
 
