@@ -4,13 +4,13 @@
 
 Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digital que capacita cidadãos, motoristas de aplicativos e moradores a monitorarem problemas de infraestrutura urbana, incluindo espaços públicos como escolas e praças, por meio de registros rápidos e acionáveis via aplicativo mobile.
 
----
+
 
 ## 🎯 Objetivo
 
 Desenvolver uma solução digital que facilite a fiscalização de problemas urbanos, promovendo participação cidadã e integração com sistemas de Smart Cities, com foco inicial no Distrito Federal (Plano Piloto, Brasília) e potencial expansão para todo o Brasil ou estados/municípios interessados.
 
----
+
 
 ## 🚀 Informações Gerais
 
@@ -20,7 +20,7 @@ O "Alerta Urbano" é uma plataforma mobile que permite o registro de ocorrência
 ### Contexto
 Conforme as normas ABNT NBR 14724:2011 (trabalhos acadêmicos) e NBR 6023:2018 (referências), este projeto consolida dados de imersão e análise de requisitos. Inicialmente concebido para o Distrito Federal, o aplicativo tem potencial para expansão nacional, adaptando-se às necessidades de estados ou municípios interessados. A ideia foi parcialmente inspirada no aplicativo "Poop Map", que permite aos usuários registrar e compartilhar localizações de eventos pessoais de forma colaborativa, com mapas interativos, curtidas e competições. No "Alerta Urbano", adaptamos essa abordagem para criar uma ferramenta de fiscalização urbana, onde cidadãos registram problemas, compartilham evidências e validam ocorrências coletivamente, promovendo engajamento comunitário com foco em infraestrutura urbana e espaços públicos.
 
----
+
 
 ## 📋 Objetivos do Projeto
 
@@ -35,7 +35,7 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 - Aumentar denúncias com campanhas locais, gamificação simples e canais como WhatsApp.
 - Garantir conformidade com a LGPD e integridade das evidências.
 
----
+
 
 ## 👥 Papéis dos Membros da Equipe
 - **Líder do Projeto**: [Arthur Ramalho Hoffmann] – Coordena atividades, prazos e integração da equipe.
@@ -44,7 +44,7 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 - **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] – Elabora relatórios e documentação técnica.
 - **Tester/Designer**: [Arthur Rmalho Hoffmann] – Realiza testes de usabilidade e cria protótipos.
 
----
+
 
 ## 🧠 Mapas de Empatia
 Os mapas de empatia foram elaborados com base em entrevistas com usuários do Plano Piloto (Asa Sul e Asa Norte, Brasília, DF).
@@ -79,12 +79,12 @@ Os mapas de empatia foram elaborados com base em entrevistas com usuários do Pl
 | Dores         | Falta de dados confiáveis e agregados para ações coletivas. |
 | Ganhos        | Ferramenta que agrega denúncias, gera relatórios técnicos e facilita monitoramento comunitário. |
 
----
+
 
 ## 🗺️ Mapa Mental
 O mapa mental do projeto, detalhando as fases de imersão, ideação e definição do problema. Ele inclui personas, jornadas do usuário e integração com Smart Cities.
 
----
+
 
 ## 📂 Estrutura do Repositório
 - `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
@@ -93,7 +93,7 @@ O mapa mental do projeto, detalhando as fases de imersão, ideação e definiç�
 - `/assets`: Imagens e logos (ex.: `logo-alerta-urbano.png`).
 - `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
 
----
+
 
 ## 📚 Referências
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 14724**: Informação e documentação - Trabalhos acadêmicos - Apresentação. Rio de Janeiro: ABNT, 2011.
