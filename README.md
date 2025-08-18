@@ -39,11 +39,11 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 ##  Papéis dos Membros da Equipe
 
-- **Líder do Projeto**: [Arthur Ramalho Hoffmann] 🧑‍💼 
-- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 💻
-- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] 🛠️ 
-- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 📄
-- **Tester/Designer**: [Arthur Ramalho Hoffmann] 🎨  
+- **Líder do Projeto**: [Arthur Ramalho Hoffmann] 
+- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 
+- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] 
+- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 
+- **Tester/Designer**: [Arthur Ramalho Hoffmann]   
 
 > 👀 Obs: Sim… sou só eu mesmo, fazendo tudo… #TeamSolo 😭
 
