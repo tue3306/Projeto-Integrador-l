@@ -91,8 +91,6 @@ O mapa mental do projeto, detalhando as fases de imersão, ideação e definiç�
 
 ## 📂 Estrutura do Repositório
 - `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
-- `/src`: Código fonte (futuro, para frontend e backend).
-- `/prototipos`: Wireframes e mockups (ex.: `wireframe-inicial.png`).
 - `/assets`: Imagens e logos (ex.: `logo-alerta-urbano.png`).
 - `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
 
