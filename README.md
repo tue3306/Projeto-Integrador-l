@@ -49,8 +49,14 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 > Obs: Sim… sou só eu mesmo, fazendo tudo… #TeamSolo 😭
 
 
+
+## 📂 Estrutura do Repositório
+- `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
+- `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
+
+
 ## 🧠 Mapa da Empatia
-O **Mapa da Empatia** desenvolvido para o projeto pode ser acessado em:  
+O **Mapa da Empatia** do projeto pode ser acessado em:  
 
 - [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
 
@@ -60,12 +66,6 @@ O **Mapa da Empatia** desenvolvido para o projeto pode ser acessado em:
 O **Relatório Técnico** do projeto pode ser acessado em:  
 
 - [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
-
-
-
-## 📂 Estrutura do Repositório
-- `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
-- `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
 
 
 
