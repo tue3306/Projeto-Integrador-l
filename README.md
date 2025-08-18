@@ -47,8 +47,6 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 - **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 
 - **Tester/Designer**: [Arthur Ramalho Hoffmann]   
 
-> Obs: Sim… sou só eu mesmo, fazendo tudo… 
-
 ----
 
 ## Estrutura do Repositório
