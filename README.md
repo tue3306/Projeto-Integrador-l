@@ -38,13 +38,16 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 
 ## 👥 Papéis dos Membros da Equipe
-- **Líder do Projeto**: [Arthur Ramalho Hoffmann] – Coordena atividades, prazos e integração da equipe.
-- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] – Desenvolve a interface do aplicativo (ex.: Flutter).
-- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] – Implementa lógica de servidor e banco de dados (ex.: Python/FastAPI, PostGIS).
-- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] – Elabora relatórios e documentação técnica.
-- **Tester/Designer**: [Arthur Rmalho Hoffmann] – Realiza testes de usabilidade e cria protótipos.
 
-👀
+- **Líder do Projeto**: [Arthur Ramalho Hoffmann] 🧑‍💼 – Coordena atividades, prazos e a vida inteira da equipe (ou melhor… só a minha 😅).  
+- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 💻 – Cria a interface do aplicativo, do jeitinho que eu gosto (Flutter, claro).  
+- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] 🛠️ – Cuida da lógica do servidor e banco de dados (Python/FastAPI/PostGIS, porque né…).  
+- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 📄 – Faz todos os relatórios e documentação técnica, porque alguém tem que fazer.  
+- **Tester/Designer**: [Arthur Ramalho Hoffmann] 🎨 – Testa a usabilidade e ainda faz os protótipos bonitinhos.  
+
+👀 Obs: Sim… sou só eu mesmo, fazendo tudo… #TeamSolo 😭
+
+
 
 ## 🧠 Mapas de Empatia
 Os mapas de empatia foram elaborados com base em entrevistas com usuários do Plano Piloto (Asa Sul e Asa Norte, Brasília, DF).
