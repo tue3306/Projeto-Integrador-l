@@ -55,17 +55,11 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 - `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
 
 
-## 🧠 Mapa da Empatia
-O **Mapa da Empatia** do projeto pode ser acessado em:  
 
-- [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
+## 🚀 Acesso Rápido
 
-
-
-## 📑 Relatório Técnico
-O **Relatório Técnico** do projeto pode ser acessado em:  
-
-- [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
+- 🧠 **Mapa da Empatia**: [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
+- 📑 **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
 
 
 
