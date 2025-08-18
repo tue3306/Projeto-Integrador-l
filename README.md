@@ -39,16 +39,6 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 ----
 
-## Papéis dos Membros da Equipe
-
-- **Líder do Projeto**: [Arthur Ramalho Hoffmann] 
-- **Desenvolvedor Frontend**: [Arthur Ramalho Hoffmann] 
-- **Desenvolvedor Backend**: [Arthur Ramalho Hoffmann] 
-- **Documentador/Analista de Requisitos**: [Arthur Ramalho Hoffmann] 
-- **Tester/Designer**: [Arthur Ramalho Hoffmann]   
-
-----
-
 ## Estrutura do Repositório
 - `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
 - `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
