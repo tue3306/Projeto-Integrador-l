@@ -63,9 +63,3 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 
 
-##  Referências
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 14724**: Informação e documentação - Trabalhos acadêmicos - Apresentação. Rio de Janeiro: ABNT, 2011.
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: Informação e documentação - Referências - Elaboração. Rio de Janeiro: ABNT, 2018.
-- Lei Geral de Proteção de Dados (LGPD) - **Lei nº 13.709/2018**.
-
-
