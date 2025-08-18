@@ -55,9 +55,15 @@ O **Mapa da Empatia** desenvolvido para o projeto pode ser acessado em:
 
 
 
+## 📑 Relatório Técnico
+O **Relatório Técnico** do projeto pode ser acessado em:  
+
+- [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
+
+
+
 ## 📂 Estrutura do Repositório
 - `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
-- `/assets`: Imagens e logos (ex.: `logo-alerta-urbano.png`).
 - `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
 
 
