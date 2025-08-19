@@ -1,10 +1,15 @@
-# Alerta-Urbano-Projeto-Integrador-I
+# 📢 Alerta-Urbano – Projeto Integrador I  
 
 ----
 
-> Projeto desenvolvido para fins educacionais no âmbito da disciplina Projeto Integrador I, Curso de Ciência da Computação, UniCEUB.
+> Projeto desenvolvido no âmbito da disciplina **Projeto Integrador I**, Curso de Ciência da Computação, UniCEUB.  
 
 Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digital que capacita cidadãos, motoristas de aplicativos e moradores a monitorarem problemas de infraestrutura urbana, incluindo espaços públicos como escolas e praças, por meio de registros rápidos e acionáveis via aplicativo mobile.
+
+----
+
+## Integrantes do Grupo
+- **Arthur Ramalho** (RA: 22404220)  
 
 ----
 
@@ -30,8 +35,8 @@ Inicialmente concebido para o Distrito Federal, o aplicativo tem potencial para 
 Desenvolver um aplicativo mobile escalável e seguro que permita o registro, monitoramento e exportação de ocorrências de infraestrutura urbana, incluindo a fiscalização de espaços públicos como escolas públicas e praças, com evidências básicas e integração com gestores públicos e sistemas de Smart Cities.
 
 ### Objetivos Específicos
-- Registrar ocorrências com localização, fotos e data/hora, abrangendo problemas em espaços públicos.
-- Gerar pacotes de evidências (PDF/JSON) para cobranças ou reclamações.
+- Permitir o registro de ocorrências com localização, fotos e data/hora, abrangendo problemas em espaços públicos.
+- Possibilitar a geração de pacotes de evidências (PDF/JSON) para cobranças ou reclamações.
 - Disponibilizar mapas acessíveis com status das ocorrências e indicadores locais.
 - Integrar via APIs com sistemas municipais e dispositivos IoT para priorização de respostas.
 - Aumentar denúncias com campanhas locais, gamificação simples e canais como WhatsApp.
@@ -47,5 +52,5 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 ## Acesso Rápido
 
--  **Mapa da Empatia**: [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)
--  **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
+- **Mapa da Empatia**: [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
+- **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)  
