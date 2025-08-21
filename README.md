@@ -9,7 +9,9 @@ Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digita
 ----
 
 ## Integrantes do Grupo
-- **Arthur Ramalho** (RA: 22404220)  
+- **Arthur Ramalho Hoffmann** (RA: 22404220)
+- **Pedro Henrique Cardoso Caldas** (RA: 22308721)
+- **Marcos Vinícius Reis Feijó** (RA: 22206636) 
 
 ----
 
