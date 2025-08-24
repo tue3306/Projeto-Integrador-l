@@ -48,7 +48,7 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 
 ## Estrutura do Repositório
 - `/docs`: Documentação (ex.: `relatorios.pdf`, `relatorio-tecnico.pdf`).
-- `/mapas`: Mapa mental e outros mapas (ex.: `mapa-mental-alerta-urbano.png`).
+- `/mapas: Mapas e artefatos visuais do projeto (mapa mental, empatia, stakeholders, jornada do usuário, vision board, MVP, etc.).
 - `/images`: Imagens de referência e prints relacionados (ex.: `print-snapcrap.png`, `mockup-alerta-urbano.jpg`).
 
 ----
