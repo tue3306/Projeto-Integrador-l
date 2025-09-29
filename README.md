@@ -59,4 +59,4 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 ## Acesso Rápido
 
 - **Mapa da Empatia**: [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
-- **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico-atualizado.pdf)  
+- **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)  
