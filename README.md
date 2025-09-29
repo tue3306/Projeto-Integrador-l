@@ -10,8 +10,11 @@ Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digita
 
 ## Integrantes do Grupo
 - **Arthur Ramalho Hoffmann** (RA: 22404220)
+  Líder de Back-end: banco de dados, APIs e integrações.
 - **Pedro Henrique Cardoso Caldas** (RA: 22308721)
-- **Marcos Vinícius Reis Feijó** (RA: 22206636) 
+  Desenvolvedor Front-end: interface, UX/UI e mapas.
+- **Marcos Vinícius Reis Feijó** (RA: 22206636)
+  Analista de Dados: estatísticas, KPIs e dashboards.
 
 ----
 
