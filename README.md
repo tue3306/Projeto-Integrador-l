@@ -17,7 +17,7 @@ Este projeto propõe o desenvolvimento do "Alerta Urbano", uma plataforma digita
 
 ## Objetivo
 
-Desenvolver uma solução digital que facilite a fiscalização de problemas urbanos, promovendo participação cidadã e integração com sistemas de Smart Cities, com foco inicial no Distrito Federal (Plano Piloto, Brasília) e potencial expansão para todo o Brasil ou estados/municípios interessados.
+Investigar, compreender e propor soluções para problemas de infraestrutura urbana por meio de uma plataforma digital colaborativa, aplicando conceitos de levantamento de requisitos, modelagem de dados, análise estatística, programação algorítmica e segurança da informação, culminando na entrega de um MVP funcional que demonstre os resultados obtidos.
 
 ----
 
