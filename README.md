@@ -61,4 +61,4 @@ Desenvolver um aplicativo mobile escalável e seguro que permita o registro, mon
 - **Mapa da Empatia**: [📄 mapas/mapa-empatia.pdf](./mapas/mapa-empatia.pdf)  
 - **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
 - **Relatório Técnico**: [📄 docs/relatorio-tecnico.pdf](./docs/relatorio-tecnico.pdf)
-- **Dashboard Interativo**:[🌐 https://tue3306.github.io/dashboardinterativo/]
+- **Dashboard Interativo**:🌐 https://tue3306.github.io/dashboardinterativo/
